@@ -51,7 +51,7 @@ Veri setini gazeteduvar.com.tr 'den requests BeatifulSoup kütüphaneleri kullan
 
 ![](https://github.com/ozdemrburak/NLP_Topic_Modeling/blob/main/project/images/burak4.png?raw=true)
 
-> - Görselde LDA yöntemiyle elde ettiğimiz sonuçlara bakarsak Topic 2,3,5'de spor kategorisini, Topic 4,6,7,8' de ise ekonomi kategorisini modellediğini görebiliriz. Topic 1 içinse yorum yapmamız zor.
+> - Görselde NMF yöntemiyle elde ettiğimiz sonuçlara bakarsak Topic 2,3,5'de spor kategorisini, Topic 4,6,7,8' de ise ekonomi kategorisini modellediğini görebiliriz. Topic 1 içinse yorum yapmamız zor.
 
 # Modellerin karşılaştırılması
 
